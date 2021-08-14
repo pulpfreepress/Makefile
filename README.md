@@ -8,7 +8,7 @@ Running `make` with no target specified displays the menu. Running `make check-t
 <img src="images/Makefile.png">
 <p align="center">Figure 1 - Running <span style="color:Gold">make</span> and <span style="color:Gold">make check-tools</span></p>
 
-## Add Menu Test
+## Add Menu Text
 
 To add menu text append two hash tags to the end of each target line followed by a space and then the menu description text.
 
